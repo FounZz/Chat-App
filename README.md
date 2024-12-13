@@ -1,7 +1,6 @@
 # ✨ **Anonymous Chat-App**
 
 ![Chat-App Demo](https://via.placeholder.com/800x400?text=Chat-App+Demo)  
-*Contoh tampilan dari Chat-App (Gantilah placeholder dengan gambar asli aplikasi Anda)*
 
 ---
 
