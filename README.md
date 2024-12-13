@@ -82,7 +82,7 @@ Akses aplikasi di `http://localhost:3000`.
 
 1. **Tampilan Chat Utama**  
 
-   ![Chat Interface](![image](https://github.com/user-attachments/assets/76c99636-9d74-4b60-85a4-2d0f59c51575))
+   ![Chat Interface](https://github.com/user-attachments/assets/76c99636-9d74-4b60-85a4-2d0f59c51575)
 
 ---
 
